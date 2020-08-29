@@ -5,7 +5,7 @@
 
     while left_index < right_index:
         # Swap characters
-        list_of_chars[left_index], list_of_chars[right_index] = \
+        list_of_chars[left_index], list_of_chars[right_index] = 
             list_of_chars[right_index], list_of_chars[left_index]
         # Move towards middle
         left_index  += 1
