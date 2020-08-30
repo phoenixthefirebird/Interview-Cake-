@@ -5,3 +5,4 @@ This is for note taking from the Interview Cake course!
 - [Reverse String In Place](https://github.com/phoenixthefirebird/Interview-Cake-/blob/e89e70d4bbd63e5d6771eb655cbddb6ace299ccc/Array%20and%20String%20Manipulation/reverse_string_in_place.py#L1)
 - [Reverse Words In Place](https://github.com/phoenixthefirebird/Interview-Cake-/blob/e89e70d4bbd63e5d6771eb655cbddb6ace299ccc/Array%20and%20String%20Manipulation/reverse_words_in_place.py#L1)
 - [Merge Sorted Arrays](https://github.com/phoenixthefirebird/Interview-Cake-/blob/b19611c6cf9b91f6992532dace7e8535cf60939d/Array%20and%20String%20Manipulation/merge_sorted_arrays.py#L1)
+- [Cafe Order Checker](https://github.com/phoenixthefirebird/Interview-Cake-/blob/c6369f54acc7b6e76c1f492c6daf33246e57ce7f/Array%20and%20String%20Manipulation/cafe_order_checker.py#L1)
