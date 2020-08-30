@@ -1,4 +1,4 @@
-  def reverse_words(message):
+def reverse_words(message):
     # First we reverse all the characters in the entire message
     reverse_characters(message, 0, len(message)-1)
 
@@ -12,7 +12,7 @@
     # as we look for the *end* of the current word
     current_word_start_index = 0
 
-    for i in xrange(len(message) + 1):
+    for i in range(len(message) + 1):
         # Found the end of the current word!
         if (i == len(message)) or (message[i] == ' '):
             reverse_characters(message, current_word_start_index, i - 1)
