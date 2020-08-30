@@ -19,6 +19,7 @@ def reverse_words(message):
             # If we haven't exhausted the message our
             # next word's start is one character ahead
             current_word_start_index = i + 1
+    return message
 
 
 def reverse_characters(message, left_index, right_index):
@@ -33,5 +34,4 @@ def reverse_characters(message, left_index, right_index):
 # test
 string = [ 'l', 'a', 'n', 'd', 'e', 'd', ' ', 'h', 'a', 's', ' ',
   'e', 'a', 'g', 'l', 'e', ' ', 't', 'h', 'e' ]
-
-print(reverse_words(string))
+reverse(string) 
