@@ -9,3 +9,6 @@ This is for note taking from the Interview Cake course!
 
 ## Hashing and Hash Tables 
 - [Inflight Entertainment](https://github.com/phoenixthefirebird/Interview-Cake-/blob/3bbb466811c87af56e741df2a3d586577d6f8240/Hashing%20and%20Hash%20Tables/inflight_entertainment.py#L1)
+- [Palindrome Permutation](https://github.com/phoenixthefirebird/Interview-Cake-/blob/58a7c15bd663db513e4e3171dbfc6fbc42e45930/Hashing%20and%20Hash%20Tables/palindrome_permutation.py#L1)
+- [Word Cloud Data](https://github.com/phoenixthefirebird/Interview-Cake-/blob/03e386dea48c5a14398bad13a153644331b6ec54/Hashing%20and%20Hash%20Tables/word_cloud_data.py#L1)
+- [Sort Scores](https://github.com/phoenixthefirebird/Interview-Cake-/blob/b63e0c9f9d1a11e7f180c445ed854012ddfcc99e/Hashing%20and%20Hash%20Tables/sort_scores.py#L1)
