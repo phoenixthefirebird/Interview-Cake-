@@ -14,4 +14,5 @@ This is for note taking from the Interview Cake course!
 - [Sort Scores](https://github.com/phoenixthefirebird/Interview-Cake-/blob/b63e0c9f9d1a11e7f180c445ed854012ddfcc99e/Hashing%20and%20Hash%20Tables/sort_scores.py#L1)
 
 ## Greedy Algorithm
+- [Highest Product of 3 Integers in a List of Integers](https://github.com/phoenixthefirebird/Interview-Cake-/blob/1703944b158d435f62752c8badb26bf47bd98a26/Greedy%20Algorithm/highest_product_of_3_integers.py#L1)
 
