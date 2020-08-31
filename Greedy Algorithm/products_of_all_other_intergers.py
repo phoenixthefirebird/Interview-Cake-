@@ -10,7 +10,7 @@ def get_products_of_all_ints_except_at_index(int_list):
     # For each integer, we find the product of all the integers
     # before it, storing the total product so far each time
     product_so_far = 1
-    for i in xrange(len(int_list)):
+    for i in range(len(int_list)):
         products_of_all_ints_except_at_index[i] = product_so_far
         product_so_far *= int_list[i]
 
@@ -19,7 +19,7 @@ def get_products_of_all_ints_except_at_index(int_list):
     # product of all the integers before it, now we're storing
     # the total product of all other integers
     product_so_far = 1
-    for i in xrange(len(int_list) - 1, -1, -1):
+    for i in range(len(int_list) - 1, -1, -1):
         products_of_all_ints_except_at_index[i] *= product_so_far
         product_so_far *= int_list[i]
 
