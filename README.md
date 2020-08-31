@@ -15,4 +15,5 @@ This is for note taking from the Interview Cake course!
 
 ## Greedy Algorithm
 - [Highest Product of 3 Integers in a List of Integers](https://github.com/phoenixthefirebird/Interview-Cake-/blob/1703944b158d435f62752c8badb26bf47bd98a26/Greedy%20Algorithm/highest_product_of_3_integers.py#L1)
+- [Get Products of All Other Integers in a List](https://github.com/phoenixthefirebird/Interview-Cake-/blob/ff068f885e5f73ce0fa4bff53d895852c32a5a52/Greedy%20Algorithm/products_of_all_other_intergers.py#L1)
 
