@@ -18,3 +18,10 @@ This is for note taking from the Interview Cake course!
 - [Get Products of All Other Integers in a List](https://github.com/phoenixthefirebird/Interview-Cake-/blob/ff068f885e5f73ce0fa4bff53d895852c32a5a52/Greedy%20Algorithm/products_of_all_other_intergers.py#L1)
 - [In-Place Shuffle](https://github.com/phoenixthefirebird/Interview-Cake-/blob/973123d581ad79e54c86afbd3e2de5d82a26f1aa/Greedy%20Algorithm/in_place_shuffle.py#L1)
 
+## Binary Search 
+- [Find Duplicates, Optimize Space](https://github.com/phoenixthefirebird/Interview-Cake-/blob/9d4f3a6ca7821482c7e054b9c21beea8c23f0f95/Binary%20Search/find_repeat_optimize_space.py#L1)
+
+## Trees and Graphs
+
+- [Find Duplicates in O(n) Complexity](https://github.com/phoenixthefirebird/Interview-Cake-/blob/f6b31cfab08011ae8d118b722033c17a77250c2a/Binary%20Search/find_repeat_optimize_space_beast_mode.py#L1)
+
