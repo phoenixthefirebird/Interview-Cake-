@@ -1,4 +1,5 @@
-  def merge_ranges(meetings):
+def merge_ranges(meetings):
+
     # Sort by start time
     sorted_meetings = sorted(meetings)
 
