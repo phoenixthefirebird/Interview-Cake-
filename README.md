@@ -22,6 +22,8 @@ This is for note taking from the Interview Cake course!
 - [Find Duplicates, Optimize Space](https://github.com/phoenixthefirebird/Interview-Cake-/blob/9d4f3a6ca7821482c7e054b9c21beea8c23f0f95/Binary%20Search/find_repeat_optimize_space.py#L1)
 
 ## Trees and Graphs
-
+- [Is Binary Tree Balanced?](https://github.com/phoenixthefirebird/Interview-Cake-/blob/26e284fe558a10710d4015ae0f566a73f9163ef0/Trees%20and%20Graph/balanced_binary_tree.py#L1)
+- [Is Binary Search Tree](https://github.com/phoenixthefirebird/Interview-Cake-/blob/26e284fe558a10710d4015ae0f566a73f9163ef0/Trees%20and%20Graph/is_binary_search_tree.py#L1)
+- [Find the Second Largest](https://github.com/phoenixthefirebird/Interview-Cake-/blob/26e284fe558a10710d4015ae0f566a73f9163ef0/Trees%20and%20Graph/find_second_largest.py#L1)
 - [Find Duplicates in O(n) Complexity](https://github.com/phoenixthefirebird/Interview-Cake-/blob/f6b31cfab08011ae8d118b722033c17a77250c2a/Binary%20Search/find_repeat_optimize_space_beast_mode.py#L1)
 
