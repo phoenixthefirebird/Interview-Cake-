@@ -25,5 +25,7 @@ This is for note taking from the Interview Cake course!
 - [Is Binary Tree Balanced?](https://github.com/phoenixthefirebird/Interview-Cake-/blob/26e284fe558a10710d4015ae0f566a73f9163ef0/Trees%20and%20Graph/balanced_binary_tree.py#L1)
 - [Is Binary Search Tree](https://github.com/phoenixthefirebird/Interview-Cake-/blob/26e284fe558a10710d4015ae0f566a73f9163ef0/Trees%20and%20Graph/is_binary_search_tree.py#L1)
 - [Find the Second Largest](https://github.com/phoenixthefirebird/Interview-Cake-/blob/26e284fe558a10710d4015ae0f566a73f9163ef0/Trees%20and%20Graph/find_second_largest.py#L1)
+- [Graph Coloring](https://github.com/phoenixthefirebird/Interview-Cake-/blob/c043002aa21b352752e27b836981dd47fc98ca0f/Trees%20and%20Graph/graph_coloring.py#L1)
+- [Mesh Message Shortest Route](https://github.com/phoenixthefirebird/Interview-Cake-/blob/0e9a867b74ef668cb8e9283791ef2a52df0f0cc4/Trees%20and%20Graph/shortest_route.py#L1)
 - [Find Duplicates in O(n) Complexity](https://github.com/phoenixthefirebird/Interview-Cake-/blob/f6b31cfab08011ae8d118b722033c17a77250c2a/Binary%20Search/find_repeat_optimize_space_beast_mode.py#L1)
 
