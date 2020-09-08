@@ -58,3 +58,6 @@ This is for note taking from the Interview Cake course!
 ## General Programming
 - [Rectangular Love](https://github.com/phoenixthefirebird/Interview-Cake-/blob/c258e9d5cb06f02e196bc7696b07188af6dbf108/General%20Programming/rectangular_love.py#L1)
 - [Temperature Tracker](https://github.com/phoenixthefirebird/Interview-Cake-/blob/23b93b62bf5af6d08e88d8a6c6bc7b0bc247079b/General%20Programming/temperature_tracker.py#L1)
+
+## Bit Manipulation 
+- [Find Unique Drone ID](https://github.com/phoenixthefirebird/Interview-Cake-/blob/a1bfafb8b8cce91703d8f9a8ca5743ecb8df709e/Bit%20Manipulation/find_unique_id.py#L1)
