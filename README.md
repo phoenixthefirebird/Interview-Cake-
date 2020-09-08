@@ -51,5 +51,9 @@ This is for note taking from the Interview Cake course!
 - [Reverse Linked Lists](https://github.com/phoenixthefirebird/Interview-Cake-/blob/2886bb4b7d2f5c7bcf08e9635ba3cb96db9b9025/Linked%20Lists/reverse_linked_list.py#L1)
 - [Kth to Last Node in Singly Linked List](https://github.com/phoenixthefirebird/Interview-Cake-/blob/8665ce09d0fd6faff2983a057df141a99d1ae3f1/Linked%20Lists/kth_to_last.py#L1)
 
+## System Design
+- [Search Engine](https://github.com/phoenixthefirebird/Interview-Cake-/blob/58ba8950bc4b7d8128205121198b01157d2ab4b1/System%20Design/search_engine.py#L1)
+- [Find Duplicate Files](https://github.com/phoenixthefirebird/Interview-Cake-/blob/c7c0f0657aebb4f2ecbb54c987359266f79f69e4/System%20Design/find_duplicate_files.py#L1)
+
 
 
