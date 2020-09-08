@@ -29,3 +29,11 @@ This is for note taking from the Interview Cake course!
 - [Mesh Message Shortest Route](https://github.com/phoenixthefirebird/Interview-Cake-/blob/0e9a867b74ef668cb8e9283791ef2a52df0f0cc4/Trees%20and%20Graph/shortest_route.py#L1)
 - [Find Duplicates in O(n) Complexity](https://github.com/phoenixthefirebird/Interview-Cake-/blob/f6b31cfab08011ae8d118b722033c17a77250c2a/Binary%20Search/find_repeat_optimize_space_beast_mode.py#L1)
 
+## Dynamic Programming and Recursion
+- [Fibonacci, Recursive](https://github.com/phoenixthefirebird/Interview-Cake-/blob/5cf6b2c839bbb46a03010c1949dd035bd8d3e4c9/Dynamic%20Programming%20and%20Recursion/fibonacci.py#L1)
+- [Fibonacci, with Memoization](https://github.com/phoenixthefirebird/Interview-Cake-/blob/5cf6b2c839bbb46a03010c1949dd035bd8d3e4c9/Dynamic%20Programming%20and%20Recursion/memoization.py#L1)
+- [Factorial Top-Down vs Bottom-up](https://github.com/phoenixthefirebird/Interview-Cake-/blob/5cf6b2c839bbb46a03010c1949dd035bd8d3e4c9/Dynamic%20Programming%20and%20Recursion/bottom_up.py#L1)
+- [String Permutations](https://github.com/phoenixthefirebird/Interview-Cake-/blob/5cf6b2c839bbb46a03010c1949dd035bd8d3e4c9/Dynamic%20Programming%20and%20Recursion/string_permutation.py#L1)
+- [Another Fibonacci with Less Space](https://github.com/phoenixthefirebird/Interview-Cake-/blob/52f80268e14d1874d627e106412244ae2d97cbcd/Dynamic%20Programming%20and%20Recursion/keeping_track_of_previous_fibonacci.py#L1)
+- [Making Change](https://github.com/phoenixthefirebird/Interview-Cake-/blob/3c494d3a057ceae719b43c25bdf92d00146b5af0/Dynamic%20Programming%20and%20Recursion/making_change.py#L1)
+- [The Cake Thief](https://github.com/phoenixthefirebird/Interview-Cake-/blob/64dda87886827d5c5a0ca74ecdae371b62a55032/Dynamic%20Programming%20and%20Recursion/the_cake_thief.py#L1)
