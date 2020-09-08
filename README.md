@@ -55,5 +55,6 @@ This is for note taking from the Interview Cake course!
 - [Search Engine](https://github.com/phoenixthefirebird/Interview-Cake-/blob/58ba8950bc4b7d8128205121198b01157d2ab4b1/System%20Design/search_engine.py#L1)
 - [Find Duplicate Files](https://github.com/phoenixthefirebird/Interview-Cake-/blob/c7c0f0657aebb4f2ecbb54c987359266f79f69e4/System%20Design/find_duplicate_files.py#L1)
 
-
-
+## General Programming
+- [Rectangular Love](https://github.com/phoenixthefirebird/Interview-Cake-/blob/c258e9d5cb06f02e196bc7696b07188af6dbf108/General%20Programming/rectangular_love.py#L1)
+- [Temperature Tracker](https://github.com/phoenixthefirebird/Interview-Cake-/blob/23b93b62bf5af6d08e88d8a6c6bc7b0bc247079b/General%20Programming/temperature_tracker.py#L1)
