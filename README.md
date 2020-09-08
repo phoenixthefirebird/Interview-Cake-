@@ -45,3 +45,11 @@ This is for note taking from the Interview Cake course!
 - [Check Matching Parenthesis](https://github.com/phoenixthefirebird/Interview-Cake-/blob/065a09a6834d8bc10841deb7bb6478049aa9135b/Queues%20and%20Stacks/matching_parenthesis.py#L1)
 - [Bracket Validator](https://github.com/phoenixthefirebird/Interview-Cake-/blob/e96a4bae7a8c28a8d856efb8da52cf7f3d58bd17/Queues%20and%20Stacks/bracket_validator.py#L1)
 
+## Linked Lists
+- [Delete Node](https://github.com/phoenixthefirebird/Interview-Cake-/blob/e576f2ad45898a2821dcab842a4d92a92be424dc/Linked%20Lists/delete_node.py#L1)
+- [Does the Linked List Have a Cycle](https://github.com/phoenixthefirebird/Interview-Cake-/blob/3293edab8e091306e94f5b4cb44a89b14f7d151c/Linked%20Lists/is_cycle_in_list.py#L1)
+- [Reverse Linked Lists](https://github.com/phoenixthefirebird/Interview-Cake-/blob/2886bb4b7d2f5c7bcf08e9635ba3cb96db9b9025/Linked%20Lists/reverse_linked_list.py#L1)
+- [Kth to Last Node in Singly Linked List](https://github.com/phoenixthefirebird/Interview-Cake-/blob/8665ce09d0fd6faff2983a057df141a99d1ae3f1/Linked%20Lists/kth_to_last.py#L1)
+
+
+
