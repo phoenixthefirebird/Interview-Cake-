@@ -37,3 +37,11 @@ This is for note taking from the Interview Cake course!
 - [Another Fibonacci with Less Space](https://github.com/phoenixthefirebird/Interview-Cake-/blob/52f80268e14d1874d627e106412244ae2d97cbcd/Dynamic%20Programming%20and%20Recursion/keeping_track_of_previous_fibonacci.py#L1)
 - [Making Change](https://github.com/phoenixthefirebird/Interview-Cake-/blob/3c494d3a057ceae719b43c25bdf92d00146b5af0/Dynamic%20Programming%20and%20Recursion/making_change.py#L1)
 - [The Cake Thief](https://github.com/phoenixthefirebird/Interview-Cake-/blob/64dda87886827d5c5a0ca74ecdae371b62a55032/Dynamic%20Programming%20and%20Recursion/the_cake_thief.py#L1)
+
+## Queues and Stacks
+- [Stack](https://github.com/phoenixthefirebird/Interview-Cake-/blob/3719c025eb2de9e9f54d3907c2eb4261b42f2a2d/Queues%20and%20Stacks/stack.py#L1)
+- [Largest in Stack](https://github.com/phoenixthefirebird/Interview-Cake-/blob/c652d32fd58aa55d5f98e394f8775cb968ce0b0f/Queues%20and%20Stacks/largest_in_stack.py#L1)
+- [Queue with 2 Stacks](https://github.com/phoenixthefirebird/Interview-Cake-/blob/af5d336c644afa69a2d44f5dbfa7b9bdd235a75b/Queues%20and%20Stacks/queue_with_2_stacks.py#L1)
+- [Check Matching Parenthesis](https://github.com/phoenixthefirebird/Interview-Cake-/blob/065a09a6834d8bc10841deb7bb6478049aa9135b/Queues%20and%20Stacks/matching_parenthesis.py#L1)
+- [Bracket Validator](https://github.com/phoenixthefirebird/Interview-Cake-/blob/e96a4bae7a8c28a8d856efb8da52cf7f3d58bd17/Queues%20and%20Stacks/bracket_validator.py#L1)
+
