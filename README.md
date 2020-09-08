@@ -61,3 +61,8 @@ This is for note taking from the Interview Cake course!
 
 ## Bit Manipulation 
 - [Find Unique Drone ID](https://github.com/phoenixthefirebird/Interview-Cake-/blob/a1bfafb8b8cce91703d8f9a8ca5743ecb8df709e/Bit%20Manipulation/find_unique_id.py#L1)
+
+## Combinatorics, Probability, and Other Maths 
+- [Which Appears Twice from 1 to n](https://github.com/phoenixthefirebird/Interview-Cake-/blob/4ccf2d1d9edd82eb05f72ef43ac67d1c785bd259/Combinatorics%2C%20Probability%2C%20and%20Other%20Math/which_appears_twice.py#L1)
+- [Simulate 5-Sided Die from rand7()](https://github.com/phoenixthefirebird/Interview-Cake-/blob/00f8607a65ec576f20e2dadaf4f1e69d1d6502e1/Combinatorics%2C%20Probability%2C%20and%20Other%20Math/five_sided_die.py#L1)
+- [Simulate 7-sided Die from rand5()](https://github.com/phoenixthefirebird/Interview-Cake-/blob/9742001e56651e525efe1a3e920c7e45bf41f5a3/Combinatorics%2C%20Probability%2C%20and%20Other%20Math/rand7_from_rand5.py#L1)
