@@ -1,5 +1,5 @@
 # Interview Cake
-This is for note taking from the Interview Cake course!
+This is for note taking from the Interview Cake course! Language used is Python 3. 
 
 ## Course Overview
 0. Arithmetic Thinking
